@@ -1,0 +1,11 @@
+clips*/
+*.wav
+results_*.csv
+latency_*.csv
+*.text_changes.jsonl
+*.log
+*_backups/
+__pycache__/
+.venv/
+.DS_Store
+.env
