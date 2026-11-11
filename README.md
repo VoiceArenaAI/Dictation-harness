@@ -1,4 +1,4 @@
-the# Dictation harness
+# Dictation harness
 
 Plays a folder of audio clips into macOS dictation tools through a virtual microphone and records, for each clip,
 the transcript the tool produced and how long it took. Every tool gets the same audio, padding and timing.
